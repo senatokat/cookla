@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366730235930",
+    "project_id": "cooklasenaa",
+    "storage_bucket": "cooklasenaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366730235930:android:97f537d735f9cf2d05c1a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJGwOEHQFnreJ4VnQ-VHjCfokZgga-1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
